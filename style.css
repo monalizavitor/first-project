@@ -100,9 +100,7 @@ p{
     margin-top: 20px;
     padding: 25px;
     background-color: rgba(142, 146, 142, 0.6);
-    
-    
-
+   
 }
 
 .form{
@@ -117,10 +115,23 @@ p{
     
 }
 
+#nome{
+    padding: 10px 5px;
+}
+
+#tel{
+    padding: 10px 5px;
+}
+
+#email{
+    padding: 10px 5px;
+}
+
 textarea{
     width: 500px;
     height: 100px;
 }
+
 #news{
     font-family: 'Fugaz One', cursive;
     text-align: center;
